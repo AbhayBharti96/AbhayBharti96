@@ -159,9 +159,9 @@ Figma
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhayBharti96&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhaybharti96&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBharti96&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybharti96&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -179,7 +179,7 @@ Figma
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbhayBharti96&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhaybharti96&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
